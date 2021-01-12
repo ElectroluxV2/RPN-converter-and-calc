@@ -1,0 +1,3 @@
+C:/Users/Mate/CLionProjects/ONP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mate/CLionProjects/ONP/cmake-build-debug/CMakeFiles/ONP.dir
+C:/Users/Mate/CLionProjects/ONP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

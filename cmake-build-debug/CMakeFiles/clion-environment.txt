@@ -1,0 +1,4 @@
+ToolSet: 16.0 (local)@N:\SHIT\VS
+Options: msvc.arch=amd64
+
+Options:
